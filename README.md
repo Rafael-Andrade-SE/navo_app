@@ -1,16 +1,34 @@
-# navo_app
+# 🚗 Navo App
 
-A new Flutter project.
+**Navo App** é um aplicativo mobile Flutter pensado especialmente para **motoristas de aplicativo**, oferecendo recursos de controle financeiro e metas de rendimento.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Visão Geral
 
-A few resources to get you started if this is your first Flutter project:
+O projeto visa oferecer uma solução prática e inteligente para quem deseja:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Gerenciar **ganhos e gastos** por plataforma (Uber, 99, etc)
+- Controlar **metas diárias e mensais**
+- Acompanhar **desempenho financeiro** com **gráficos e dashboards**
+- Visualizar **transações por tipo de gasto** (ex: combustível, manutenção)
+- Armazenar e gerenciar **dados do veículo**
+- Receber **alertas e insights** baseados em performance
+- Exportar dados e relatórios
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔌 Integração com API
+
+Este aplicativo irá consumir os dados da API:
+
+👉 [https://github.com/Rafael-Andrade-SE/navo-api](https://github.com/Rafael-Andrade-SE/navo-api)
+
+---
+
+## 📱 Tecnologias Utilizadas
+
+- **Flutter** – UI multiplataforma
+- **GetX** – Gerenciamento de estado, rotas e dependências
+- **GetStorage** – Armazenamento local temporário
+- **Material 3** – Design moderno e acessível
